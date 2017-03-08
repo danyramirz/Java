@@ -1,0 +1,43 @@
+//I HATE WHEN I RUN OUT OF MILK
+//I HATE WHEN I RUN OUT OF MILK
+//I HATE WHEN I RUN OUT OF MILK
+//I HATE WHEN I RUN OUT OF MILK
+//I HATE WHEN I RUN OUT OF MILK
+//I HATE WHEN I RUN OUT OF MILK
+//I HATE WHEN I RUN OUT OF MILK
+//I HATE WHEN I RUN OUT OF MILK
+//I HATE WHEN I RUN OUT OF MILK
+//I HATE WHEN I RUN OUT OF MILK
+//I HATE WHEN I RUN OUT OF MILK
+public class AutoDemo {
+
+	public static void main(String[] args) {
+		Car car1 = new Car();
+		
+		Car car2 = new Chevy();
+		Car car3 = new Toyota();
+//I HATE JAVA		
+		car2.moveVehicle();
+		car3.moveVehicle();
+	}
+
+}
+//I HATE JAVA
+//I HATE JAVA
+//I HATE JAVA
+//I HATE JAVA
+//I HATE JAVA
+//I HATE JAVA
+//I HATE JAVA
+//I HATE JAVA
+//I HATE JAVA
+//I HATE JAVA
+//I HATE JAVA
+//I HATE JAVA
+//I HATE JAVA
+//I HATE JAVA
+//I HATE JAVA
+//I HATE JAVA
+//I HATE JAVA
+//I HATE JAVA
+//I HATE JAVA
